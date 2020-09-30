@@ -1,0 +1,35 @@
+body {
+  background-color: lightblue;
+}
+
+nav {
+  margin: 20px auto;
+}
+
+.navbar {
+  display: flex;
+  text-align: center;
+}
+
+.home {
+  background-color: #ff6f69;
+  padding: 100px;
+  border: white 5px solid;
+}
+
+.about {
+  background-color: #ff6f69;
+  padding: 100px;
+  border: white 5px solid;
+}
+
+.contact {
+  background-color: #ff6f69;
+  padding: 100px;
+  border: white 5px solid;
+}
+
+div {
+  color: white;
+  font-size: 10px;
+}
